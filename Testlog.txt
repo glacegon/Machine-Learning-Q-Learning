@@ -1,0 +1,102 @@
+****************************************************
+EPISODE 0
+Starting position:  [0, 4]
+List of actions:  ['L', 'U', 'L', 'U']
+Episode rewards:  2
+****************************************************
+EPISODE 1
+Starting position:  [3, 4]
+List of actions:  ['D', 'L', 'L']
+Episode rewards:  3
+****************************************************
+EPISODE 2
+Starting position:  [3, 1]
+List of actions:  ['R', 'D']
+Episode rewards:  4
+****************************************************
+EPISODE 3
+Starting position:  [3, 2]
+List of actions:  ['D']
+Episode rewards:  5
+****************************************************
+EPISODE 4
+Starting position:  [3, 3]
+List of actions:  ['D', 'L']
+Episode rewards:  4
+****************************************************
+EPISODE 5
+Starting position:  [4, 2]
+List of actions:  ['D', 'D']
+Episode rewards:  4
+****************************************************
+EPISODE 6
+Starting position:  [0, 0]
+List of actions:  ['R', 'U', 'U', 'R']
+Episode rewards:  2
+****************************************************
+EPISODE 7
+Starting position:  [2, 2]
+List of actions:  ['S']
+Episode rewards:  5
+****************************************************
+EPISODE 8
+Starting position:  [4, 0]
+List of actions:  ['D', 'R', 'R', 'D']
+Episode rewards:  2
+****************************************************
+EPISODE 9
+Starting position:  [4, 4]
+List of actions:  ['D', 'D', 'L', 'L']
+Episode rewards:  2
+****************************************************
+EPISODE 10
+Starting position:  [4, 3]
+List of actions:  ['D', 'D', 'L']
+Episode rewards:  3
+****************************************************
+EPISODE 11
+Starting position:  [4, 1]
+List of actions:  ['R', 'D', 'D']
+Episode rewards:  3
+****************************************************
+EPISODE 12
+Starting position:  [4, 3]
+List of actions:  ['D', 'D', 'L']
+Episode rewards:  3
+****************************************************
+EPISODE 13
+Starting position:  [1, 4]
+List of actions:  ['U', 'L', 'L']
+Episode rewards:  3
+****************************************************
+EPISODE 14
+Starting position:  [2, 1]
+List of actions:  ['R']
+Episode rewards:  5
+****************************************************
+EPISODE 15
+Starting position:  [0, 0]
+List of actions:  ['R', 'U', 'U', 'R']
+Episode rewards:  2
+****************************************************
+EPISODE 16
+Starting position:  [1, 0]
+List of actions:  ['U', 'R', 'R']
+Episode rewards:  3
+****************************************************
+EPISODE 17
+Starting position:  [3, 2]
+List of actions:  ['D']
+Episode rewards:  5
+****************************************************
+EPISODE 18
+Starting position:  [1, 2]
+List of actions:  ['U']
+Episode rewards:  5
+****************************************************
+EPISODE 19
+Starting position:  [0, 3]
+List of actions:  ['U', 'L', 'U']
+Episode rewards:  3
+****************************************************
+Score over time:  3.4
